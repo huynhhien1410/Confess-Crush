@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Vợ biết mà 🥰. Yêu ông xã nhiều nhiều lắm 😘😘',
     messDesc: 'Tối nay ông xã call vợ để trả lời nha!!',
     btnAccept: 'Okiiiii lun iuu <3',
-    messLink: 'https://www.gucci.com/au/en_au/pr/women/wallets-and-small-accessories-for-women/card-holder-small-accessories-for-women/card-holders-coin-cases-for-women/leather-card-case-wallet-p-456126CAO0G5909
+    messLink: 'https://www.gucci.com/au/en_au/pr/women/wallets-and-small-accessories-for-women/card-holder-small-accessories-for-women/card-holders-coin-cases-for-women/leather-card-case-wallet-p-456126CAO0G5909'
 }
