@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "I LOVE YOU",
+    titleWeb: "I LOVE YOUU",
     introTitle: 'Trần Trung Tín',
     introDesc: `Con gái yêu bằng tai, con trai yêu bằng mắt
     Nên hãy nói những lời ngọt ngào với tui điii`,
